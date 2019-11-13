@@ -18,7 +18,7 @@ rentea API server
 Build development image and update python package
 
 ```bash
-docker-compose build crawler
+docker-compose build rentea_api
 ```
 
 ### Using virtualenv
